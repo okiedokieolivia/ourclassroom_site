@@ -1,0 +1,121 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2919385 */
+  /* Color fonts */
+  src: 
+       url('iconfont.woff2?t=1636991769210') format('woff2'),
+       url('iconfont.woff?t=1636991769210') format('woff'),
+       url('iconfont.ttf?t=1636991769210') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-like2:before {
+  content: "\ecf1";
+}
+
+.icon-menu:before {
+  content: "\ecd9";
+}
+
+.icon-location:before {
+  content: "\ecda";
+}
+
+.icon-like:before {
+  content: "\ecdb";
+}
+
+.icon-delete:before {
+  content: "\ecdc";
+}
+
+.icon-edit:before {
+  content: "\ecdd";
+}
+
+.icon-camera:before {
+  content: "\ecde";
+}
+
+.icon-setting:before {
+  content: "\ecdf";
+}
+
+.icon-date:before {
+  content: "\ece0";
+}
+
+.icon-email1:before {
+  content: "\ece1";
+}
+
+.icon-search:before {
+  content: "\ece2";
+}
+
+.icon-password:before {
+  content: "\ece3";
+}
+
+.icon-time:before {
+  content: "\ece4";
+}
+
+.icon-wifi:before {
+  content: "\ece5";
+}
+
+.icon-photo:before {
+  content: "\ece6";
+}
+
+.icon-user:before {
+  content: "\ece7";
+}
+
+.icon-share:before {
+  content: "\ece8";
+}
+
+.icon-phone:before {
+  content: "\ece9";
+}
+
+.icon-sale:before {
+  content: "\ecea";
+}
+
+.icon-homepage:before {
+  content: "\eceb";
+}
+
+.icon-tips:before {
+  content: "\ecec";
+}
+
+.icon-order:before {
+  content: "\eced";
+}
+
+.icon-navigation:before {
+  content: "\ecee";
+}
+
+.icon-chat:before {
+  content: "\ecef";
+}
+
+.icon-list:before {
+  content: "\ecf0";
+}
+
+.icon-google:before {
+  content: "\ea0c";
+}
+
